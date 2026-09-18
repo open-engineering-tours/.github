@@ -1,6 +1,8 @@
-Open Engineering Tours
+# Open Engineering Tours
 
 Open Engineering Tours is the definitions repository for guided tours through Open Engineering Architecture scenes.
+
+![Open Engineering Tours hero-banner.png](../assets/hero-banner.png)
 
 A tour takes a viewer step-by-step through an architectural scenario. Each step can move the viewer to one or more cameras in a Babylon.js scene, allowing the viewer to understand not only what the architecture looks like, but also how it works over time.
 
